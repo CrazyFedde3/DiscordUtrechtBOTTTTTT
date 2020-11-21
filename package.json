@@ -1,0 +1,36 @@
+{
+  "name": "utrecht",
+  "version": "1.0.0",
+  "description": "Discord bot voor Utrecht",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot",
+    "yt",
+    "discord",
+    "handig"
+  ],
+  "author": "Fedde",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "common-tags": "^1.8.0",
+    "discord-giveaways": "^4.1.8",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "functions": "^1.0.9",
+    "imageapi.js": "^1.0.3",
+    "ms": "^2.1.2",
+    "noblox.js": "^4.6.1",
+    "noblox.js-server": "^1.3.1",
+    "node-fetch": "^2.6.0",
+    "random-puppy": "^1.1.0",
+    "ytdl-core": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
